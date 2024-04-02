@@ -1,0 +1,11 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  padding: 24px;
+}
+
+.filters_pagination {
+  margin-top: auto;
+  align-self: center;
+}
